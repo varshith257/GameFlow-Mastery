@@ -17,7 +17,7 @@ spec:
           image: adijaiswal/boardshack:latest 
           imagePullPolicy: Always
           ports:
-            - containerPort: 8080
+            - containerPort: 3000
 ---
 
 apiVersion: v1
@@ -29,6 +29,6 @@ spec:
     app: boardgame
   ports:
     - protocol: "TCP"
-      port: 80
-      targetPort: 8080 
+      port: 3000
+      targetPort: 3000 
   type: LoadBalancer
