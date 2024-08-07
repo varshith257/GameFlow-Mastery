@@ -1,6 +1,7 @@
 ## Overview
 
-The **GameFlow Mastery** project integrates a comprehensive CI/CD pipeline for board game development. This pipeline ensures code quality, security, and efficient deployment, leveraging various tools and technologies to deliver a seamless development and deployment experience for board game projects.
+The **GameFlow Mastery** project integrates a comprehensive CI/CD pipeline for board game development. This pipeline ensures code quality, security and efficient deployment, leveraging various tools and technologies to deliver a seamless development and deployment experience for production environment projects. This project is a learning path of DevOPS CI/CD using the following tools:
+
 
 ![alt text](./docs/assets/image-3.png)
 
